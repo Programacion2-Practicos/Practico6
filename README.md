@@ -20,3 +20,24 @@ En el paquete **grafica** cree un JFrame llamado *FrmArticulo* para poder cargar
  Recuerde que a la clase Articulo del paquete logica le corresponde el siguiente Diagrama de clases:
 
 ![Diagrama de la clase Articulo](./articulo.png) 
+
+## Ejercicio3 - FORMULARIO EMPLEADO
+Realice un proyecto llamado **Ejer3_Empleado**, con dos paquetes, *logica* y *grafica*.
+En el paquete **logica** cree una class llamada *Empleado*, aquí dejo su código.
+
+En el paquete **grafica** cree un JFrame llamado *FrmEmpleado* para poder cargar los atributos de un empleado
+ Codificar el FrmEmpleado que se encuentra en el paquete grafica para poder cargar los atributos de un Empleado (codigo, nombre, precioCosto) en campos de texto y en un 4to campo de texto visualizar el precio de Venta utilizando el método precioVenta.
+ 
+ Recuerde que a la clase Empleado del paquete logica le corresponde el siguiente Diagrama de clases:
+ ![Diagrama de la clase Empleado](./empleado.png) 
+Recordar que los métodos: 
+
+
+• ** public double sueldoAnual()** : El método devuelve el salario anual percibido.
+
+• ** public void presentismo()**: Incrementa el valor de salario en un 10%.
+
+• ** public String toString()** : Devuelve atributos y salarioAnual().
+Debe tener dos botones (además de Limpiar y Salir):
+1) Botón "Salario Anual" que al presionarlo despliegue en otro campo de texto el salario anual. 
+2) Botón "Presentismo" que al presionarlo modifique el campo de texto del salario anual, habiendole sumado el presentismo correspondiente.
