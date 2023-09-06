@@ -7,4 +7,4 @@
 
  Recuerde que a la clase Fecha del paquete logica le corresponde el siguiente Diagrama de clases:
 
-!/Ejer1/[Diagrama de la clase Fecha](./fecha.png) 
+!Ejer1_Fecha/[Diagrama de la clase Fecha](./fecha.png) 
