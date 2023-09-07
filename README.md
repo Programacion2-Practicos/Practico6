@@ -10,7 +10,7 @@ Realice un proyecto llamado **Practico6_GUI**, con dos paquetes, *logica* y *gra
 
 - Recuerde que a la clase Fecha del paquete logica le corresponde el siguiente Diagrama de clases:
   
-                                          ![Diagrama de la clase Fecha](./fecha.png) 
+  ![Diagrama de la clase Fecha](./fecha.png) 
 
 ## Ejercicio2 - FORMULARIO ARTICULO
 
@@ -21,6 +21,7 @@ Realice un proyecto llamado **Practico6_GUI**, con dos paquetes, *logica* y *gra
 - Codificar el FrmArticulo que se encuentra en el paquete grafica para poder cargar los atributos de un Articulo (codigo, nombre, precioCosto) en campos de texto y en un 4to campo de texto para visualizar el precio de Venta utilizando el método precioVenta.
  
 - Recuerde que a la clase Articulo del paquete logica le corresponde el siguiente Diagrama de clases:
+
   ![Diagrama de la clase Articulo](./articulo.png) 
 
 ## Ejercicio3 - FORMULARIO EMPLEADO
@@ -32,6 +33,7 @@ Realice un proyecto llamado **Practico6_GUI**, con dos paquetes, *logica* y *gra
 - Codificar el FrmEmpleado que se encuentra en el paquete grafica para poder cargar los atributos de un Empleado (apellido, nombre, salario) en campos de texto y en un 4to campo de texto para visualizar el sueldo anual
  
  Recuerde que a la clase Empleado del paquete logica le corresponde el siguiente Diagrama de clases:
+ 
  ![Diagrama de la clase Empleado](./empleado.png) 
 
 Recordar que los métodos: 
