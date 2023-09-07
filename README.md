@@ -4,7 +4,7 @@ Realice un proyecto llamado **Practico6_GUI**, con dos paquetes, *logica* y *gra
 
 ## Ejercicio1 - FORMULARIO FECHA
 
-- En el paquete **logica** cree una class llamada *Fecha*,  [aquí](/https://github.com/Programacion2-Practicos/Practico6/blob/main/Ejer1_Fecha/src/logica/Fecha.java) dejo su código.
+- En el paquete **logica** cree una class llamada *Fecha*,  [aquí](../blob/main/Ejer1_Fecha/src/logica/Fecha.java) dejo su código.
 
 - En el paquete **grafica** cree un JFrame llamado *FrmFecha* para poder cargar los atributos de una fecha (dia, mes, anio) en 3 campos de texto y en un 4to campo de texto para visualizar la fecha utilizando el método toString.
 
